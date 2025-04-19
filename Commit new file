@@ -1,0 +1,50 @@
+ar/index.html
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ReVestoo بدلة الزفاف الذكية</title>
+  <style>
+    body { font-family: 'Arial', sans-serif; background: #0d0f11; color: white; margin: 0; padding: 0; direction: rtl; }
+    .container { width: 90%; max-width: 1100px; margin: auto; padding: 20px; }
+    .logo { text-align: center; margin: 20px 0; }
+    .logo img { width: 200px; }
+    .brand-intro { text-align: center; font-size: 1.2em; margin-bottom: 40px; }
+    .suit { background: #1a1d21; padding: 20px; margin-bottom: 30px; border-radius: 10px; }
+    .suit img { width: 100%; max-width: 400px; display: block; margin: auto; border-radius: 8px; }
+    .suit h2 { text-align: center; color: #4fc3f7; }
+    .suit p { text-align: center; font-size: 1em; }
+    .cta-button { display: block; width: 200px; margin: 20px auto 0; background: #4fc3f7; color: #000; text-align: center; padding: 12px; text-decoration: none; border-radius: 6px; font-weight: bold; }
+    .footer { text-align: center; padding: 20px; font-size: 0.8em; color: #aaa; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="logo">
+      <img src="logo.png" alt="شعار ريفيستو">
+    </div>
+    <div class="brand-intro">
+      تجربة الزفاف الذكية بدأت هنا — اختار بدلتك من بين موديلات فخمة، مقاسات مخصصة، توصيل لباب البيت، وكاش باك يوصل حتى 20%. لأول مرة في مصر، ReVestoo بتقدملك تجربة تكنولوجية مختلفة للعريس العصري.
+    </div>
+
+    <div class="suit">
+      <img src="suit5.jpg" alt="بدلة كورشال">
+      <h2>كورشال</h2>
+      <p>تصميم كلاسيكي أنيق بلمسة فخمة وسيمترية ذكية تليق بالعريس اللي بيدور على هيبة وراحة. <br>المقاسات: من 44 إلى 58 <br>السعر: 1799 جنيه – كاش باك حتى 20%</p>
+      <a class="cta-button" href="https://wa.me/201001499167?text=حجز بدلة كورشال">احجز الآن</a>
+    </div>
+
+    <div class="suit">
+      <img src="suit6.jpg" alt="بدلة بنطة عالية">
+      <h2>بنُطّة عالية</h2>
+      <p>ستايل جريء ونقشة فريدة، مصممة للظهور المختلف والمميز. <br>المقاسات: 48 / 50 / 52 / 54 / 56 / 58 <br>السعر: 1299 جنيه – كاش باك حتى 20%</p>
+      <a class="cta-button" href="https://wa.me/201001499167?text=حجز بدلة بنطة عالية">احجز الآن</a>
+    </div>
+
+    <div class="footer">
+      ReVestoo بدلة الزفاف الذكية | powered by smart fashion
+    </div>
+  </div>
+</body>
+</html>
